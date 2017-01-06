@@ -1,0 +1,7 @@
+{
+  "name": "purescript-halogen-free-html",
+  "repository": "https://github.com/noraesae/purescript-halogen-free-html.git",
+  "dependencies": {
+    "virtual-dom": "^2.1.1"
+  }
+}
