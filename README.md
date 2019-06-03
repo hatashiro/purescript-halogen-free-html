@@ -7,8 +7,7 @@ Free monad for Halogen HTML
 ***Experimental, not ready for common usage.***
 
 I am quite new with PureScript and Halogen, and unsure this idea is viable.
-Please feel free to leave your thought and share knowledge in [Issues](https://github.com/utatti/purescript-halogen-free-html/issues),
-or on [Twitter](https://twitter.com/uta_tti).
+Please feel free to leave your thought and share knowledge in [Issues](https://github.com/utatti/purescript-halogen-free-html/issues).
 
 ## What's this?
 
